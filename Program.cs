@@ -48,6 +48,16 @@ int y = 66;
 int nota1 = y+x;
 Console.WriteLine(nota1);
 
+/// Os valores padrão dos tipos de dados em muitas linguagens de programação podem variar, mas aqui estão os valores típicos:
+
+//bool: Geralmente é false.
+//char: Geralmente é um caractere vazio, como '\0'.
+//int: Normalmente é 0.
+//double: Normalmente é 0.0.
+//float: Também normalmente é 0.0.
+//decimal: Em linguagens que suportam decimal como um tipo de dados específico (como C#), geralmente é 0.0M.
+//string: Normalmente é uma string vazia, ou "".
+
 
 
 
