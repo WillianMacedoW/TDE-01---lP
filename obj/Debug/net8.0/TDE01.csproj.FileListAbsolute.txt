@@ -1,0 +1,15 @@
+C:\Users\Willian Macedo\Desktop\Fuculdade - ADS\laboratório de programação\TDE01\bin\Debug\net8.0\TDE01.exe
+C:\Users\Willian Macedo\Desktop\Fuculdade - ADS\laboratório de programação\TDE01\bin\Debug\net8.0\TDE01.deps.json
+C:\Users\Willian Macedo\Desktop\Fuculdade - ADS\laboratório de programação\TDE01\bin\Debug\net8.0\TDE01.runtimeconfig.json
+C:\Users\Willian Macedo\Desktop\Fuculdade - ADS\laboratório de programação\TDE01\bin\Debug\net8.0\TDE01.dll
+C:\Users\Willian Macedo\Desktop\Fuculdade - ADS\laboratório de programação\TDE01\bin\Debug\net8.0\TDE01.pdb
+C:\Users\Willian Macedo\Desktop\Fuculdade - ADS\laboratório de programação\TDE01\obj\Debug\net8.0\TDE01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willian Macedo\Desktop\Fuculdade - ADS\laboratório de programação\TDE01\obj\Debug\net8.0\TDE01.AssemblyInfoInputs.cache
+C:\Users\Willian Macedo\Desktop\Fuculdade - ADS\laboratório de programação\TDE01\obj\Debug\net8.0\TDE01.AssemblyInfo.cs
+C:\Users\Willian Macedo\Desktop\Fuculdade - ADS\laboratório de programação\TDE01\obj\Debug\net8.0\TDE01.csproj.CoreCompileInputs.cache
+C:\Users\Willian Macedo\Desktop\Fuculdade - ADS\laboratório de programação\TDE01\obj\Debug\net8.0\TDE01.sourcelink.json
+C:\Users\Willian Macedo\Desktop\Fuculdade - ADS\laboratório de programação\TDE01\obj\Debug\net8.0\TDE01.dll
+C:\Users\Willian Macedo\Desktop\Fuculdade - ADS\laboratório de programação\TDE01\obj\Debug\net8.0\refint\TDE01.dll
+C:\Users\Willian Macedo\Desktop\Fuculdade - ADS\laboratório de programação\TDE01\obj\Debug\net8.0\TDE01.pdb
+C:\Users\Willian Macedo\Desktop\Fuculdade - ADS\laboratório de programação\TDE01\obj\Debug\net8.0\TDE01.genruntimeconfig.cache
+C:\Users\Willian Macedo\Desktop\Fuculdade - ADS\laboratório de programação\TDE01\obj\Debug\net8.0\ref\TDE01.dll
